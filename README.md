@@ -2,7 +2,8 @@
 
 A modern, interactive dashboard built with Python and Streamlit for real-time stock analysis. This application allows users to fetch intraday data for any specified stock symbol, visualize price movements with interactive candlestick charts, and analyze key financial indicators.
 
-<img width="1902" height="948" alt="Screenshot 2025-10-13 150145" src="https://github.com/user-attachments/assets/882596c5-8901-4ae2-b7ee-bf5ce23fa0ab" />
+<img width="1895" height="947" alt="Screenshot 2025-10-13 180818" src="https://github.com/user-attachments/assets/881604d5-9602-49ee-9cc3-5564e7aa85a5" />
+
 <img width="1907" height="942" alt="Screenshot 2025-10-13 145954" src="https://github.com/user-attachments/assets/f607f022-4dbf-4ceb-903d-188d5c2fb73a" />
 
 
